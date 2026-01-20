@@ -34,7 +34,7 @@ The dataset was loaded using Pandas and basic inspection was performed.
 ### 5. Saved the Processed Dataset
 - The final preprocessed dataset was saved as `adult_processed.csv`.
 
-## ✅ Output
+## Output
 - Preprocessed dataset ready for machine learning models
 - File Generated: `adult_processed.csv`
 
